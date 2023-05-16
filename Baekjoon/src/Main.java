@@ -13,6 +13,7 @@ public class Main {
         System.out.println(n * b);
         System.out.println(n * a);
         System.out.println(n * d);
+        System.out.println(n * d);
 
     }
 }
