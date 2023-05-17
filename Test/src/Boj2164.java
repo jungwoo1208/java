@@ -13,5 +13,6 @@ public class Boj2164 {
             q.add(q.poll());
         }
         System.out.println(q.poll());
+        sc.close();
     }
 }
