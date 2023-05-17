@@ -9,5 +9,6 @@ public class Boj2525 {
         int newHour = (hour + (minute + time) / 60) % 24;
         int newMinute = (minute + time) % 60;
         System.out.println(newHour + " " + newMinute);
+        sc.close();
     }
 }
