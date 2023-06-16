@@ -12,6 +12,9 @@ public class Rectangle implements Drawable{
     public void printInfo() {
         System.out.printf("사각형의 가로 길이: %d\n사각형의 세로길이: %d\n",width,height);
     }
+    public double getR(){
+        return 0;
+    }
     public int getWidth() {
         return width;
     }

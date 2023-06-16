@@ -1,6 +1,6 @@
 import java.util.*;
 public class Boj1823 {
-    static void star (int n,char arr [][]){
+    static void star (int n, char[][] arr){
 
     }
 

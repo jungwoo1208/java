@@ -9,5 +9,6 @@ public class DrawableEX {
         System.out.println();
         circle.draw();
         circle.printInfo();
+        System.out.println(5);
     }
 }
